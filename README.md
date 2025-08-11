@@ -26,7 +26,7 @@ chatbot-model/
 
 2. **Build the Docker Image**:
    ```bash
-     docker-compose up -d --build
+   docker-compose up -d --build
    ```
 
 3. **Run the Docker Container**:
